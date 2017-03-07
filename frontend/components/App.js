@@ -1,9 +1,9 @@
 import React from "react";
 
 const App = () => (
-    <div className="app">
+  <div className="app">
     <h1>Todo List App</h1>
-    </div>
+  </div>
 );
 
 export default App;
