@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // TODO: Remove after development
   window.store = store;
+  window.receiveTodo = receiveTodo;
 
   ReactDOM.render(<Root store={store} />, root);
 });
